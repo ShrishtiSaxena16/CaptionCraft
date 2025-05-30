@@ -1,5 +1,7 @@
 # CaptionCraft
 
+![image](https://github.com/user-attachments/assets/f39eea2f-966c-4e95-a234-2498b195ec0a)
+
 CaptionCraft is an advanced image-to-caption generator designed to transform images into meaningful descriptive sentences using deep learning and computer vision techniques. Given below are the steps that are carried out for achieving the results.
 
 Image Feature Extraction: The process begins with the Xception model, a powerful Convolutional Neural Network (CNN) trained on the ImageNet dataset. Xception analyzes the image to identify and extract key features, such as objects, textures, and shapes. This step is crucial for understanding what is present in the image.
