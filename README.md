@@ -1,6 +1,6 @@
 # CaptionCraft
 <img width="605" height="532" alt="image" src="https://github.com/user-attachments/assets/2e20cdba-224a-4271-8a6a-f72be0ad8c37" />
-<img width="380" height="43" alt="image" src="https://github.com/user-attachments/assets/0717cbe1-7b48-4696-98ef-803085d17354" />
+<img width="605" height="43" alt="image" src="https://github.com/user-attachments/assets/0717cbe1-7b48-4696-98ef-803085d17354" />
 
 CaptionCraft is an advanced image-to-caption generator designed to transform images into meaningful descriptive sentences using deep learning and computer vision techniques. Given below are the steps that are carried out for achieving the results.
 
